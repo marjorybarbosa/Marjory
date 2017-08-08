@@ -39,7 +39,7 @@ public class binarioAdecimal {
 
 			JOptionPane.showMessageDialog(null, "Binario: " + Resultado, "Resultados", JOptionPane.PLAIN_MESSAGE);
 		} else {
-			JOptionPane.showMessageDialog(null, "somente oito digitos porfavor ", "Error", JOptionPane.PLAIN_MESSAGE);
+			JOptionPane.showMessageDialog(null, "somente aoito digitos porfavor ", "Error", JOptionPane.PLAIN_MESSAGE);
 		}
 
 		System.exit(0);
